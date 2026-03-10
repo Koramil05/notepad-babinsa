@@ -1,4 +1,4 @@
-const CACHE_NAME = 'babinsa-v2.1.0';
+const CACHE_NAME = 'babinsa-pro-v3.0.0';
 const urlsToCache = ['/', '/index.html', '/manifest.json'];
 
 self.addEventListener('install', e => {
