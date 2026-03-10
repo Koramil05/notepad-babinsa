@@ -1,7 +1,7 @@
 {
-  "name": "Notepad Babinsa",
+  "name": "Notepad Babinsa PRO",
   "short_name": "Babinsa Note",
-  "description": "Text Editor untuk Babinsa Koramil 1609-05/Sukasada",
+  "description": "Text Editor dengan Auto-Save untuk Babinsa",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#2b3b2b",
